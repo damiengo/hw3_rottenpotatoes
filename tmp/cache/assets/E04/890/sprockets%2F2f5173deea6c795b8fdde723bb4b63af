@@ -1,0 +1,56 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1351544535.1098983:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%020796c16b6c1dbcc572546d54116307I"logical_path;
+FI"application.js;
+TI"pathname;
+FI"0$root/app/assets/javascripts/application.js;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2012-10-29T20:27:42+01:00;
+FI"	body;
+FI"”// This is a manifest file that'll be compiled into including all the files listed below.
+// Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
+// be included in the compiled file accessible from http://example.com/assets/application.js
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// the compiled file.
+//
+;
+;
+FI"asset_paths;
+F[I"T/var/lib/gems/1.9.1/gems/jquery-rails-2.1.1/vendor/assets/javascripts/jquery.js;
+FI"X/var/lib/gems/1.9.1/gems/jquery-rails-2.1.1/vendor/assets/javascripts/jquery_ujs.js;
+FI"0$root/app/assets/javascripts/application.js;
+FI"dependency_paths;
+F[	{I"	path;
+FI"0$root/app/assets/javascripts/application.js;
+FI"
+mtime;
+FIu:	Time¬'€3Ò‹€
+:@_zoneI"CET;
+T:nano_numià:nano_deni:submicro""@:offsetiI"hexdigest;
+F"%0f1cfbc0bc3803a9dbf1a44d1da6ff92{I"	path;
+FI"!$root/app/assets/javascripts;
+FI"
+mtime;
+FIu;¬'€3Ò‹€
+;I"CET;
+T;ià;i;""@;iI"hexdigest;
+F"%9fc91fc75938cd11a57805188f2a2260{I"	path;
+FI"T/var/lib/gems/1.9.1/gems/jquery-rails-2.1.1/vendor/assets/javascripts/jquery.js;
+FI"
+mtime;
+FIu;³'€3v¨n
+;I"CET;
+T;i;i;"(p;iI"hexdigest;
+F"%a972cfe4e85bb47d39f9e015cbbd8ab1{I"	path;
+FI"X/var/lib/gems/1.9.1/gems/jquery-rails-2.1.1/vendor/assets/javascripts/jquery_ujs.js;
+FI"
+mtime;
+FIu;³'€3v¨n
+;I"CET;
+T;i;i;"(p;iI"hexdigest;
+F"%274bf67ebc042c9f3e848baba8b36eddI"_version;
+F"%0868aba5d4b750d3a9421721ea3d9b9c
