@@ -31,6 +31,14 @@ module WithinHelpers
 end
 World(WithinHelpers)
 
+Given /I check the following ratings\: "([^"]*)"/ do |ratings|
+  ratings.each do |rating|
+    rating.split(",").each do |rating|
+      check("ratings_"+rating)
+    end
+  end
+end
+
 # Single-line step scoper
 When /^(.*) within (.*[^:])$/ do |step, parent|
   with_scope(parent) { When step }
